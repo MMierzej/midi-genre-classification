@@ -1,4 +1,4 @@
-# MIDI genre classifier
+# MIDI genre classification
 
 A final project for Machine Learning at University of Wrocław.
 
